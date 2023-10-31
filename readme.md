@@ -29,7 +29,7 @@ Here is a preview of the application:
 
 ## Usage
 
-To utilize this application, you can either visit [this link](steve-shao.github.io/proj-wallpaper-from-quote) or download the entire folder and launch the `index.html` file in your preferred web browser.
+To utilize this application, you can either visit [this link](https://steve-shao.github.io/proj-wallpaper-from-quote) or download the entire folder and launch the `index.html` file in your preferred web browser.
 
 <br> 
 
