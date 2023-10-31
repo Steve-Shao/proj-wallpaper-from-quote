@@ -27,6 +27,24 @@ Here is a preview of the application:
 
 <br>
 
+## Be Creative!
+
+See some cool ideas from my friend 包子:
+
+![idea-1](preview-1.png)
+
+![idea-2](preview-2.png)
+
+<br>
+
+By the way, this project was inspired by [logoly.pro](https://www.logoly.pro/#/): 
+
+<br>
+
+![no-problem](no-problem.png)
+
+<br>
+
 ## Usage
 
 To utilize this application, you can either visit [this link](https://steve-shao.github.io/proj-wallpaper-from-quote) or download the entire folder and launch the `index.html` file in your preferred web browser.
